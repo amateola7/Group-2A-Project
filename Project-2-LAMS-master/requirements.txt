@@ -1,0 +1,18 @@
+# Switch into a virtual environment
+# run pip to install requirements
+#      pip install -r requirements.txt
+Flask
+Flask-SQLAlchemy
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+plotly
+numpy
+pandas
+scipy
+gunicorn
+plotly-geo
+geopandas==0.3.0
+pyshp==1.2.10
+shapely==1.6.3
